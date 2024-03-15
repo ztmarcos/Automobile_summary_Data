@@ -1,4 +1,4 @@
-# Automobile_summary_Data
+# Automobile_Data_summary
 
 This dataset contains information on the cost and physical attributes of several thousand cars. Originally, this dataset was used to train a classification model that assigned an acceptability score/category to cars based on these attributes.
 
